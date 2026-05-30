@@ -1,5 +1,5 @@
-# pethon;
-## Python en español es mas facil -w-!
+![Logo de Pethon](assets/logopethon.png)
+## PethonBeta v1
 
 # comandos basicos
 imprimir("texto" variable "o" boleano)
