@@ -1,4 +1,4 @@
-![Logo de Pethon](assets/logopethon.png)
+![Logo de Pethon](logopethon.png)
 ## PethonBeta v1
 
 # comandos basicos
