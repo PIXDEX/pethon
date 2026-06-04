@@ -1,3 +1,0 @@
-imprimir("Test de Pethon")
-nombre = entrada("Su nombre:")
-imprimir("Hola, " + nombre + ".")

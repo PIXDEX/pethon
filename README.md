@@ -1,16 +1,7 @@
 ![Logo de Pethon](logopethon.png)
-## PethonBeta v1
+## Pethon (Beta)
+Pethon es Python en español, lo que facilita la programacion para los hispanohablantes
 
-# comandos basicos
-imprimir("texto" variable "o" boleano)
+# Documentacion
+Usted podra encontrar la documentacion en el directorio ````docs```` y algunos ejemplos en ```examples```
 
-si variable == coso:
-    imprimir("coso")
-si_no_si variable == coso2:
-    imprimir("coso2")
-sino:
-    imprimir("eso no es coso")
-
-variable = entrada("que coso pones:")
-
-variable = coso
