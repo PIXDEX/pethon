@@ -1,0 +1,40 @@
+# Lista de palabras de Pethon con su equivalente en Python
+| Pethon     | Python   |
+| ---------- | -------- |
+| Falso      | False    |
+| Nulo       | None     |
+| Verdadero  | True     |
+| y          | and      |
+| como       | as       |
+| asegurar   | assert   |
+| asincrono  | async    |
+| esperar    | await    |
+| romper     | break    |
+| clase      | class    |
+| continuar  | continue |
+| definir    | def      |
+| eliminar   | del      |
+| si_no_si   | elif     |
+| sino       | else     |
+| excepcion  | except   |
+| finalmente | finally  |
+| para       | for      |
+| desde      | from     |
+| global     | global   |
+| si         | if       |
+| importar   | import   |
+| en         | in       |
+| es         | is       |
+| lambda     | lambda   |
+| no_local   | nonlocal |
+| no         | not      |
+| o          | or       |
+| pasar      | pass     |
+| elevar     | raise    |
+| retornar   | return   |
+| intentar   | try      |
+| mientras   | while    |
+| con        | with     |
+| producir   | yield    |
+
+

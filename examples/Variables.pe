@@ -1,0 +1,5 @@
+nombre = "George"
+edad = 24
+
+imprimir(nombre)
+imprimir(edad)
